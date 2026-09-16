@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lo Stato Misterioso • Letterando</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <main class="container">
+    <header>
+      <div class="header-top">
+        <button id="btnRegole" class="icon-btn" title="Regole del gioco">❓</button>
+        <h1>Lo Stato Misterioso</h1>
+        <div class="header-actions">
+          <a href="https://www.paypal.com/paypalme/AlessioBaldacci" target="_blank" class="icon-btn" title="Offrimi un caffè">☕</a>
+          <button id="btnStats" class="icon-btn" title="Statistiche">📊</button>
+        </div>
+      </div>
+
+      <div class="mode-selector">
+        <button id="btnModeDaily" class="mode-btn active">Giornaliera</button>
+        <button id="btnModeInfinite" class="mode-btn">Infinita</button>
+      </div>
+    </header>
+
+    <section class="controls">
+      <div class="input-wrapper">
+        <input type="text" id="inputStato" list="listaStati" placeholder="Inserisci uno stato..." autocomplete="off">
+        <datalist id="listaStati"></datalist>
+      </div>
+      <button id="btnInvia">Invia</button>
+      <button id="btnArrendo" class="btn-danger">Mi Arrendo</button>
+    </section>
+
+    <div id="gameStatus" class="game-status">Tentativi rimanenti: <span id="attemptsLeft">10</span></div>
+
+    <section class="table-container">
+      <table id="tabellaTentativi">
+        <thead>
+          <tr>
+            <th>Stato</th>
+            <th>Continente</th>
+            <th>Governo</th>
+            <th>Colori Bandiera</th>
+            <th>Fuso Orario</th>
+            <th>Confini</th>
+            <th>Mare</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <footer>
+      LETTERANDO © 2026 • Realizzato con passione per gli amanti dei rompicapo da Alessio Baldacci. Per collaborazioni, informazioni e segnalazione parole: <a href="mailto:alessiobaldacci12@gmail.com">alessiobaldacci12@gmail.com</a>. Per tornare al sito principale: <a href="https://www.letterando.it">www.letterando.it</a>
+    </footer>
+  </main>
+
+  <!-- Modal Regole -->
+  <div id="modalRegole" class="modal">
+    <div class="modal-content">
+      <span class="close-btn" id="closeRegole">&times;</span>
+      <h2>Come Giocare</h2>
+      <p>Indovina lo stato segreto in un massimo di 10 tentativi!</p>
+      <ul>
+        <li><span class="badge-demo verde">Verde</span>: La caratteristica corrisponde perfettamente.</li>
+        <li><span class="badge-demo rosso">Rosso</span>: La caratteristica è errata.</li>
+        <li><strong>⬆️ / ⬇️</strong>: Indicano se il valore numerico del target è superiore o inferiore.</li>
+        <li><strong>➡️ / ⬅️</strong>: Indicano se il fuso orario del target è più ad est o più ad ovest.</li>
+      </ul>
+      <p>In modalità <strong>Giornaliera</strong> lo stato cambia ogni giorno ed è identico per tutti i giocatori. In modalità <strong>Infinita</strong> puoi giocare tutte le volte che vuoi!</p>
+    </div>
+  </div>
+
+  <!-- Modal Statistiche -->
+  <div id="modalStats" class="modal">
+    <div class="modal-content">
+      <span class="close-btn" id="closeStats">&times;</span>
+      <h2>Le tue Statistiche</h2>
+      <div class="stats-grid">
+        <div class="stat-box"><span id="statPlayed">0</span><span>Giocate</span></div>
+        <div class="stat-box"><span id="statWon">0</span><span>Vinte</span></div>
+        <div class="stat-box"><span id="statStreak">0</span><span>Striscia</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Libreria Coriandoli -->
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

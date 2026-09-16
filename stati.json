@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "AFG",
+    "nome": "Afghanistan",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 4.5,
+    "confini": 6,
+    "sbocco_mare": false
+  },
+  {
+    "id": "ALB",
+    "nome": "Albania",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "DZA",
+    "nome": "Algeria",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 7,
+    "sbocco_mare": true
+  },
+  {
+    "id": "AND",
+    "nome": "Andorra",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 2,
+    "sbocco_mare": false
+  },
+  {
+    "id": "AGO",
+    "nome": "Angola",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ATG",
+    "nome": "Antigua e Barbuda",
+    "continente": "America del Nord",
+    "governo": "Monarchia",
+    "colori_bandiera": 5,
+    "fuso_orario": -4.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SAU",
+    "nome": "Arabia Saudita",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 2,
+    "fuso_orario": 3.0,
+    "confini": 7,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ARG",
+    "nome": "Argentina",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -3.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ARM",
+    "nome": "Armenia",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 4.0,
+    "confini": 4,
+    "sbocco_mare": false
+  },
+  {
+    "id": "AUS",
+    "nome": "Australia",
+    "continente": "Oceania",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 10.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "AUT",
+    "nome": "Austria",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 8,
+    "sbocco_mare": false
+  },
+  {
+    "id": "AZE",
+    "nome": "Azerbaigian",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 4.0,
+    "confini": 5,
+    "sbocco_mare": false
+  },
+  {
+    "id": "BHS",
+    "nome": "Bahamas",
+    "continente": "America del Nord",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": -5.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BHR",
+    "nome": "Bahrein",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 2,
+    "fuso_orario": 3.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BGD",
+    "nome": "Bangladesh",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 6.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BRB",
+    "nome": "Barbados",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -4.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BEL",
+    "nome": "Belgio",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BLZ",
+    "nome": "Belize",
+    "continente": "America del Nord",
+    "governo": "Monarchia",
+    "colori_bandiera": 6,
+    "fuso_orario": -6.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BEN",
+    "nome": "Benin",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BTN",
+    "nome": "Bhutan",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 6.0,
+    "confini": 2,
+    "sbocco_mare": false
+  },
+  {
+    "id": "BLR",
+    "nome": "Bielorussia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 3.0,
+    "confini": 5,
+    "sbocco_mare": false
+  },
+  {
+    "id": "MMR",
+    "nome": "Birmania (Myanmar)",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 6.5,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BOL",
+    "nome": "Bolivia",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -4.0,
+    "confini": 5,
+    "sbocco_mare": false
+  },
+  {
+    "id": "BIH",
+    "nome": "Bosnia ed Erzegovina",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BWA",
+    "nome": "Botswana",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 2.0,
+    "confini": 4,
+    "sbocco_mare": false
+  },
+  {
+    "id": "BRA",
+    "nome": "Brasile",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": -3.0,
+    "confini": 10,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BRN",
+    "nome": "Brunei",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": 8.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BGR",
+    "nome": "Bulgaria",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 2.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "BFA",
+    "nome": "Burkina Faso",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 6,
+    "sbocco_mare": false
+  },
+  {
+    "id": "BDI",
+    "nome": "Burundi",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 2.0,
+    "confini": 3,
+    "sbocco_mare": false
+  },
+  {
+    "id": "KHM",
+    "nome": "Cambogia",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 7.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CMR",
+    "nome": "Camerun",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 6,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CAN",
+    "nome": "Canada",
+    "continente": "America del Nord",
+    "governo": "Monarchia",
+    "colori_bandiera": 2,
+    "fuso_orario": -5.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CPV",
+    "nome": "Capo Verde",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": -1.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CZE",
+    "nome": "Cechia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 4,
+    "sbocco_mare": false
+  },
+  {
+    "id": "TCD",
+    "nome": "Ciad",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 6,
+    "sbocco_mare": false
+  },
+  {
+    "id": "CHL",
+    "nome": "Cile",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -4.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CHN",
+    "nome": "Cina",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 8.0,
+    "confini": 14,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CYP",
+    "nome": "Cipro",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 2.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "VAT",
+    "nome": "Città del Vaticano",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 1,
+    "sbocco_mare": false
+  },
+  {
+    "id": "COL",
+    "nome": "Colombia",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -5.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "COM",
+    "nome": "Comore",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 5,
+    "fuso_orario": 3.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "PRK",
+    "nome": "Corea del Nord",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 9.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "KOR",
+    "nome": "Corea del Sud",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 9.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CRI",
+    "nome": "Costa Rica",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -6.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CIV",
+    "nome": "Costa d'Avorio",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "HRV",
+    "nome": "Croazia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 1.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CUB",
+    "nome": "Cuba",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -5.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "DNK",
+    "nome": "Danimarca",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "DMA",
+    "nome": "Dominica",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 6,
+    "fuso_orario": -4.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ECU",
+    "nome": "Ecuador",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -5.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "EGY",
+    "nome": "Egitto",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 2.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SLV",
+    "nome": "El Salvador",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -6.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ARE",
+    "nome": "Emirati Arabi Uniti",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": 4.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ERI",
+    "nome": "Eritrea",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 3.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "EST",
+    "nome": "Estonia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 2.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SWZ",
+    "nome": "Eswatini",
+    "continente": "Africa",
+    "governo": "Monarchia",
+    "colori_bandiera": 5,
+    "fuso_orario": 2.0,
+    "confini": 2,
+    "sbocco_mare": false
+  },
+  {
+    "id": "ETH",
+    "nome": "Etiopia",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 3.0,
+    "confini": 6,
+    "sbocco_mare": false
+  },
+  {
+    "id": "FJI",
+    "nome": "Figi",
+    "continente": "Oceania",
+    "governo": "Repubblica",
+    "colori_bandiera": 5,
+    "fuso_orario": 12.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "PHL",
+    "nome": "Filippine",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 8.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "FIN",
+    "nome": "Finlandia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 2.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "FRA",
+    "nome": "Francia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 8,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GAB",
+    "nome": "Gabon",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GMB",
+    "nome": "Gambia",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 0.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GEO",
+    "nome": "Georgia",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 4.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "DEU",
+    "nome": "Germania",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 9,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GHA",
+    "nome": "Ghana",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 0.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "JAM",
+    "nome": "Giamaica",
+    "continente": "America del Nord",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": -5.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "JPN",
+    "nome": "Giappone",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 2,
+    "fuso_orario": 9.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "DJI",
+    "nome": "Gibuti",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 3.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "JOR",
+    "nome": "Giordania",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": 3.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GRC",
+    "nome": "Grecia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 2.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GRD",
+    "nome": "Grenada",
+    "continente": "America del Nord",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": -4.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GTM",
+    "nome": "Guatemala",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -6.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GIN",
+    "nome": "Guinea",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 6,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GNQ",
+    "nome": "Guinea Equatoriale",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 1.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GNB",
+    "nome": "Guinea-Bissau",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 0.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GUY",
+    "nome": "Guyana",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 5,
+    "fuso_orario": -4.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "HTI",
+    "nome": "Haiti",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": -5.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "HND",
+    "nome": "Honduras",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": -6.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "IND",
+    "nome": "India",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 5.5,
+    "confini": 6,
+    "sbocco_mare": true
+  },
+  {
+    "id": "IDN",
+    "nome": "Indonesia",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 7.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "IRN",
+    "nome": "Iran",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 3.5,
+    "confini": 7,
+    "sbocco_mare": true
+  },
+  {
+    "id": "IRQ",
+    "nome": "Iraq",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 3.0,
+    "confini": 6,
+    "sbocco_mare": true
+  },
+  {
+    "id": "IRL",
+    "nome": "Irlanda",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ISL",
+    "nome": "Islanda",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MHL",
+    "nome": "Isole Marshall",
+    "continente": "Oceania",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 12.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SLB",
+    "nome": "Isole Salomone",
+    "continente": "Oceania",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": 11.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ISR",
+    "nome": "Israele",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 2.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ITA",
+    "nome": "Italia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 6,
+    "sbocco_mare": true
+  },
+  {
+    "id": "KAZ",
+    "nome": "Kazakistan",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 6.0,
+    "confini": 5,
+    "sbocco_mare": false
+  },
+  {
+    "id": "KEN",
+    "nome": "Kenya",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 3.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "KGZ",
+    "nome": "Kirghizistan",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 6.0,
+    "confini": 4,
+    "sbocco_mare": false
+  },
+  {
+    "id": "KIR",
+    "nome": "Kiribati",
+    "continente": "Oceania",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 12.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "KWT",
+    "nome": "Kuwait",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": 3.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "LAO",
+    "nome": "Laos",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 7.0,
+    "confini": 5,
+    "sbocco_mare": false
+  },
+  {
+    "id": "LSO",
+    "nome": "Lesotho",
+    "continente": "Africa",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": 2.0,
+    "confini": 1,
+    "sbocco_mare": false
+  },
+  {
+    "id": "LVA",
+    "nome": "Lettonia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 2.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "LBN",
+    "nome": "Libano",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 2.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "LBR",
+    "nome": "Liberia",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "LBY",
+    "nome": "Libia",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 2.0,
+    "confini": 6,
+    "sbocco_mare": true
+  },
+  {
+    "id": "LIE",
+    "nome": "Liechtenstein",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 2,
+    "sbocco_mare": false
+  },
+  {
+    "id": "LTU",
+    "nome": "Lituania",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 2.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "LUX",
+    "nome": "Lussemburgo",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 3,
+    "sbocco_mare": false
+  },
+  {
+    "id": "MKD",
+    "nome": "Macedonia del Nord",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 5,
+    "sbocco_mare": false
+  },
+  {
+    "id": "MDG",
+    "nome": "Madagascar",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 3.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MWI",
+    "nome": "Malawi",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 2.0,
+    "confini": 3,
+    "sbocco_mare": false
+  },
+  {
+    "id": "MDV",
+    "nome": "Maldive",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 5.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MYS",
+    "nome": "Malesia",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": 8.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MLI",
+    "nome": "Mali",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 7,
+    "sbocco_mare": false
+  },
+  {
+    "id": "MLT",
+    "nome": "Malta",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MAR",
+    "nome": "Marocco",
+    "continente": "Africa",
+    "governo": "Monarchia",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MRT",
+    "nome": "Mauritania",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MUS",
+    "nome": "Mauritius",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 4.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MEX",
+    "nome": "Messico",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": -6.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "FSM",
+    "nome": "Micronesia",
+    "continente": "Oceania",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 10.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MDA",
+    "nome": "Moldavia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 2.0,
+    "confini": 2,
+    "sbocco_mare": false
+  },
+  {
+    "id": "MCO",
+    "nome": "Monaco",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MNG",
+    "nome": "Mongolia",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 8.0,
+    "confini": 2,
+    "sbocco_mare": false
+  },
+  {
+    "id": "MNE",
+    "nome": "Montenegro",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "MOZ",
+    "nome": "Mozambico",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 5,
+    "fuso_orario": 2.0,
+    "confini": 6,
+    "sbocco_mare": true
+  },
+  {
+    "id": "NAM",
+    "nome": "Namibia",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 5,
+    "fuso_orario": 2.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "NRU",
+    "nome": "Nauru",
+    "continente": "Oceania",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 12.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "NPL",
+    "nome": "Nepal",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 5.75,
+    "confini": 2,
+    "sbocco_mare": false
+  },
+  {
+    "id": "NIC",
+    "nome": "Nicaragua",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -6.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "NER",
+    "nome": "Niger",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 7,
+    "sbocco_mare": false
+  },
+  {
+    "id": "NGA",
+    "nome": "Nigeria",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "NOR",
+    "nome": "Norvegia",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "NZL",
+    "nome": "Nuova Zelanda",
+    "continente": "Oceania",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 12.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "OMN",
+    "nome": "Oman",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": 4.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "NLD",
+    "nome": "Paesi Bassi",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "PAK",
+    "nome": "Pakistan",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 5.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "PLW",
+    "nome": "Palau",
+    "continente": "Oceania",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 9.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "PSE",
+    "nome": "Palestina",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 2.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "PAN",
+    "nome": "Panama",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -5.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "PNG",
+    "nome": "Papua Nuova Guinea",
+    "continente": "Oceania",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 10.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "PRY",
+    "nome": "Paraguay",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": -4.0,
+    "confini": 3,
+    "sbocco_mare": false
+  },
+  {
+    "id": "PER",
+    "nome": "Perù",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": -5.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "POL",
+    "nome": "Polonia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 7,
+    "sbocco_mare": true
+  },
+  {
+    "id": "PRT",
+    "nome": "Portogallo",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 5,
+    "fuso_orario": 0.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "QAT",
+    "nome": "Qatar",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 2,
+    "fuso_orario": 3.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "GBR",
+    "nome": "Regno Unito",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CAF",
+    "nome": "Repubblica Centrafricana",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 5,
+    "fuso_orario": 1.0,
+    "confini": 6,
+    "sbocco_mare": false
+  },
+  {
+    "id": "COD",
+    "nome": "Repubblica Democratica del Congo",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 9,
+    "sbocco_mare": true
+  },
+  {
+    "id": "DOM",
+    "nome": "Repubblica Dominicana",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": -4.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "COG",
+    "nome": "Repubblica del Congo",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ROU",
+    "nome": "Romania",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 2.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "RWA",
+    "nome": "Ruanda",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 2.0,
+    "confini": 4,
+    "sbocco_mare": false
+  },
+  {
+    "id": "RUS",
+    "nome": "Russia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 3.0,
+    "confini": 14,
+    "sbocco_mare": true
+  },
+  {
+    "id": "KNA",
+    "nome": "Saint Kitts e Nevis",
+    "continente": "America del Nord",
+    "governo": "Monarchia",
+    "colori_bandiera": 5,
+    "fuso_orario": -4.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "VCT",
+    "nome": "Saint Vincent e Grenadine",
+    "continente": "America del Nord",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": -4.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "WSM",
+    "nome": "Samoa",
+    "continente": "Oceania",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 13.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SMR",
+    "nome": "San Marino",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 1,
+    "sbocco_mare": false
+  },
+  {
+    "id": "LCA",
+    "nome": "Santa Lucia",
+    "continente": "America del Nord",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": -4.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SEN",
+    "nome": "Senegal",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SRB",
+    "nome": "Serbia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 1.0,
+    "confini": 8,
+    "sbocco_mare": false
+  },
+  {
+    "id": "SYC",
+    "nome": "Seychelles",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 5,
+    "fuso_orario": 4.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SLE",
+    "nome": "Sierra Leone",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 0.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SGP",
+    "nome": "Singapore",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 8.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SYR",
+    "nome": "Siria",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 2.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SVK",
+    "nome": "Slovacchia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 1.0,
+    "confini": 5,
+    "sbocco_mare": false
+  },
+  {
+    "id": "SVN",
+    "nome": "Slovenia",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 1.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SOM",
+    "nome": "Somalia",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 3.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ESP",
+    "nome": "Spagna",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": 1.0,
+    "confini": 5,
+    "sbocco_mare": true
+  },
+  {
+    "id": "LKA",
+    "nome": "Sri Lanka",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 5.5,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "USA",
+    "nome": "Stati Uniti",
+    "continente": "America del Nord",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -5.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ZAF",
+    "nome": "Sudafrica",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 6,
+    "fuso_orario": 2.0,
+    "confini": 6,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SDN",
+    "nome": "Sudan",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 2.0,
+    "confini": 7,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SSD",
+    "nome": "Sudan del Sud",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 6,
+    "fuso_orario": 2.0,
+    "confini": 6,
+    "sbocco_mare": false
+  },
+  {
+    "id": "SUR",
+    "nome": "Suriname",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": -3.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "SWE",
+    "nome": "Svezia",
+    "continente": "Europa",
+    "governo": "Monarchia",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "CHE",
+    "nome": "Svizzera",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 5,
+    "sbocco_mare": false
+  },
+  {
+    "id": "STP",
+    "nome": "São Tomé e Príncipe",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 0.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "TJK",
+    "nome": "Tagikistan",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 5.0,
+    "confini": 4,
+    "sbocco_mare": false
+  },
+  {
+    "id": "TWN",
+    "nome": "Taiwan",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 8.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "TZA",
+    "nome": "Tanzania",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 3.0,
+    "confini": 8,
+    "sbocco_mare": true
+  },
+  {
+    "id": "THA",
+    "nome": "Thailandia",
+    "continente": "Asia",
+    "governo": "Monarchia",
+    "colori_bandiera": 3,
+    "fuso_orario": 7.0,
+    "confini": 4,
+    "sbocco_mare": true
+  },
+  {
+    "id": "TLS",
+    "nome": "Timor Est",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 9.0,
+    "confini": 1,
+    "sbocco_mare": true
+  },
+  {
+    "id": "TGO",
+    "nome": "Togo",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 0.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "TON",
+    "nome": "Tonga",
+    "continente": "Oceania",
+    "governo": "Monarchia",
+    "colori_bandiera": 2,
+    "fuso_orario": 13.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "TUN",
+    "nome": "Tunisia",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 1.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "TUR",
+    "nome": "Turchia",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 3.0,
+    "confini": 8,
+    "sbocco_mare": true
+  },
+  {
+    "id": "TKM",
+    "nome": "Turkmenistan",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 5.0,
+    "confini": 4,
+    "sbocco_mare": false
+  },
+  {
+    "id": "TUV",
+    "nome": "Tuvalu",
+    "continente": "Oceania",
+    "governo": "Monarchia",
+    "colori_bandiera": 4,
+    "fuso_orario": 12.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "UKR",
+    "nome": "Ucraina",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 2.0,
+    "confini": 7,
+    "sbocco_mare": true
+  },
+  {
+    "id": "UGA",
+    "nome": "Uganda",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 3.0,
+    "confini": 5,
+    "sbocco_mare": false
+  },
+  {
+    "id": "HUN",
+    "nome": "Ungheria",
+    "continente": "Europa",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 1.0,
+    "confini": 7,
+    "sbocco_mare": false
+  },
+  {
+    "id": "URY",
+    "nome": "Uruguay",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": -3.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "UZB",
+    "nome": "Uzbekistan",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 5.0,
+    "confini": 5,
+    "sbocco_mare": false
+  },
+  {
+    "id": "VUT",
+    "nome": "Vanuatu",
+    "continente": "Oceania",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 11.0,
+    "confini": 0,
+    "sbocco_mare": true
+  },
+  {
+    "id": "VEN",
+    "nome": "Venezuela",
+    "continente": "America del Sud",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": -4.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "VNM",
+    "nome": "Vietnam",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 2,
+    "fuso_orario": 7.0,
+    "confini": 3,
+    "sbocco_mare": true
+  },
+  {
+    "id": "YEM",
+    "nome": "Yemen",
+    "continente": "Asia",
+    "governo": "Repubblica",
+    "colori_bandiera": 3,
+    "fuso_orario": 3.0,
+    "confini": 2,
+    "sbocco_mare": true
+  },
+  {
+    "id": "ZMB",
+    "nome": "Zambia",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 4,
+    "fuso_orario": 2.0,
+    "confini": 8,
+    "sbocco_mare": false
+  },
+  {
+    "id": "ZWE",
+    "nome": "Zimbabwe",
+    "continente": "Africa",
+    "governo": "Repubblica",
+    "colori_bandiera": 5,
+    "fuso_orario": 2.0,
+    "confini": 4,
+    "sbocco_mare": false
+  }
+]

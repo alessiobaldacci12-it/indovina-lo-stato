@@ -1,0 +1,260 @@
+:root {
+  --bg-main: #f8f9fa;
+  --surface: #ffffff;
+  --text-primary: #2b2d42;
+  --text-muted: #6c757d;
+  --border-color: #e9ecef;
+  
+  --color-success: #e2f0d9;
+  --text-success: #2e5a1c;
+  --color-error: #fce4d6;
+  --text-error: #a61c1c;
+  
+  --accent-btn: #4a6fa5;
+  --accent-btn-hover: #3b5984;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  margin: 0;
+  padding: 30px 15px;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  margin-bottom: 24px;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 0;
+  letter-spacing: -0.5px;
+}
+
+.header-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.icon-btn {
+  background: none;
+  border: 1px solid var(--border-color);
+  background-color: var(--surface);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.mode-selector {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.mode-btn {
+  background-color: transparent;
+  border: 1px solid var(--border-color);
+  color: var(--text-muted);
+  padding: 6px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.mode-btn.active {
+  background-color: var(--accent-btn);
+  color: #fff;
+  border-color: var(--accent-btn);
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+input {
+  padding: 10px 14px;
+  font-size: 1rem;
+  width: 240px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  outline: none;
+  background-color: var(--surface);
+}
+
+button#btnInvia, button#btnArrendo {
+  padding: 10px 18px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button#btnInvia {
+  background-color: var(--accent-btn);
+  color: #ffffff;
+}
+
+.btn-danger {
+  background-color: #e63946;
+  color: #ffffff;
+}
+
+.game-status {
+  text-align: center;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.table-container {
+  background-color: var(--surface);
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+  overflow-x: auto;
+  border: 1px solid var(--border-color);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+  min-width: 650px;
+}
+
+th {
+  background-color: #f1f3f5;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  padding: 12px 8px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+td {
+  padding: 12px 8px;
+  font-size: 0.95rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.verde {
+  background-color: var(--color-success);
+  color: var(--text-success);
+  font-weight: 600;
+}
+
+.rosso {
+  background-color: var(--color-error);
+  color: var(--text-error);
+}
+
+/* Animazione Svelamento Cella per Cella */
+tbody td.cell-flip {
+  opacity: 0;
+  transform: rotateX(-90deg);
+  animation: flipIn 0.4s ease-out forwards;
+}
+
+@keyframes flipIn {
+  0% {
+    opacity: 0;
+    transform: rotateX(-90deg);
+  }
+  100% {
+    opacity: 1;
+    transform: rotateX(0deg);
+  }
+}
+
+footer {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border-color);
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+footer a {
+  color: var(--accent-btn);
+  text-decoration: none;
+}
+
+/* Modali */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 100;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+  background-color: var(--surface);
+  margin: 10% auto;
+  padding: 24px;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 500px;
+  position: relative;
+}
+
+.close-btn {
+  position: absolute;
+  right: 16px;
+  top: 12px;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: var(--text-muted);
+}
+
+.badge-demo {
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.stats-grid {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.stat-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stat-box span:first-child {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
